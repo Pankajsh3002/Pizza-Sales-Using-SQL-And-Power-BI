@@ -8,9 +8,18 @@ Project Overview
 
 Data Analysis By:-
 SQL
-- Summarizing data to understand trends (e.g., Total Revenue, Average Order Value, Total Pizza Sold).
+- Summarizing data to understand trends (e.g., Total Revenue, Average Order Value, Total Pizza Soldo ).
 - Writing SQL queries to extract insights such as:
   - Daily And Monthly Trend For Total Order
   - Percentage of Sales by Pizza Category And Pizza Size
   - Top 5 Seller By Revenue, Quantity, Total Order
   - Bottom 5 Seller By Revenue, Quantity, Total Order
+
+Power BI
+- Used cards to display Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, and Average Pizzas per Order.
+- Daily and Monthly Trend for Total Order:
+  - Stacked Column charts or area charts showing the total number of orders per day and per month.
+- Percentage of Sales by Pizza Category and Pizza Size:
+  - Pie charts representing the sales distribution.
+- Top 5 Sellers by Revenue, Quantity, Total Order:
+  - Stacked Bar charts showing the top 5 pizzas based on revenue, quantity sold, and the total number of orders.
